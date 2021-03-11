@@ -1,0 +1,6 @@
+[submodule "src/garage/attention-learn-to-route"]
+	path = src/garage/attention-learn-to-route
+	url = https://github.com/Rnhondova/attention-learn-to-route.git
+[submodule "src/garage/torch/algos/attention-learn-to-route"]
+	path = src/garage/torch/algos/attention-learn-to-route
+	url = https://github.com/Rnhondova/attention-learn-to-route.git
